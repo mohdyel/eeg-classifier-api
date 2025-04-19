@@ -1,0 +1,1 @@
+file can be used to run a eeg model with image for any server
