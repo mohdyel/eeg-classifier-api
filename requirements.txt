@@ -1,10 +1,11 @@
-flask
+Flask
 flask-cors
+flet
+numpy
 pandas
 opencv-python
-numpy
-tensorflow
+matplotlib
 keras
 keras-cv
-matplotlib
-pyarrow
+tensorflow
+gunicorn
